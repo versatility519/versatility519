@@ -5,6 +5,14 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# My Score
+
+<p >
+  <a href="https://github.com/versatility519?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&ryo-ma&theme=matrix"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
+  </a>
+</p>
  
 # Git Status
 
@@ -18,11 +26,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/versatility519?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&ryo-ma&theme=matrix"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
-  </a>
-</p>
+
 
 <p align="center">
     <img
