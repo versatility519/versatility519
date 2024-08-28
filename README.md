@@ -6,12 +6,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
 # Git Status
 
 <p align="center">
   <a href="https://github.com/versatility519?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=versatility519&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&count_private=false"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
+  </a>
+  <a href="https://github.com/versatility519?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&count_private=false"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
   </a>
   <a href="https://github.com/versatility519?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
