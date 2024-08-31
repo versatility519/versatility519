@@ -1,12 +1,19 @@
 - 👋 Hi, I’m @versatility519
  
 # 👨 About me
-
+<p align="center">
+  <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      width="40%" alt="activity graph">
+</p>
+<p>
+ 
 <ul align="left">
   <li>⏳ 5+ years of development experience</li>
   <li>🕸 Senior Fullstack Developer</li>
   <li>💰 Junior Blockchain Developer</li>
 </ul>
+</p>
 
 
 
@@ -29,9 +36,6 @@
 # My Score
 
 <p align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="60%" alt="activity graph">
   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
       width="40%" alt="activity graph">
