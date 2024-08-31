@@ -12,26 +12,6 @@
   <li>⏳ 5+ years of development experience</li>
 </ul>
 
-<h2>💌 Contact me:</h2>
-<div align="center">
-
-  <a href="https://mail.google.com" target="blank">
-    <img align="center" src="./assets/gmail.png" alt="luckystar628" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="blank">
-    <img align="center" src="./assets/discord.png" alt="luckystar628" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://web.telegram.org/k/#777000" target="blank">
-    <img align="center" src="./assets/telegram.png" alt="luckystar628" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luckystar628" height="30" width="50" />
-
-  </a>
-</div>
 
 <h2>💻 Languages and Tools:</h2>
 
@@ -87,17 +67,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://php.com"><img alt="PHP" src="./assets/php_plain_logo_icon_146397.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;  
-
-
 </div>
 <hr />
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckystar628&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/luckystar628/luckystar628/output/github-contribution-grid-snake.svg">
-  <img src="./metrics.plugin.calendar.full.svg">
-
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
+  <img src="./metrics.plugin.calendar.full.svg">  
 </div>
 # My Score
 
