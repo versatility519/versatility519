@@ -5,9 +5,7 @@
   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
       width="40%" alt="activity graph">
-</p>
-<p>
- 
+
 <ul align="left">
   <li>⏳ 5+ years of development experience</li>
   <li>🕸 Senior Fullstack Developer</li>
@@ -32,15 +30,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
   </a>
 </p>
-
-# My Score
-
-<p align="center">
-  <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      width="40%" alt="activity graph">
-</p>
-
 
 <!---
 versatility519/versatility519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
