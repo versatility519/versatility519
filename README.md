@@ -7,17 +7,18 @@
   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
       width="40%" alt="activity graph">
+ </p>
+ 
 <p align="">
-<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
+  <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
 </p>
-
-<ul align="">
+<p>
+<ul align="left">
   <li>⏳ 5+ years of development experience</li>
   <li>🕸 Senior Fullstack Developer</li>
   <li>💰 Junior Blockchain Developer</li>
 </ul>
 </p>
-
 </div>
 
 
