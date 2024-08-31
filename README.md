@@ -10,14 +10,15 @@
 
 # 💻 Languages and Tools
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="300" />
-
 <div align="left">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
   <img src="./metrics.plugin.calendar.full.svg">  
 </div> 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="300" />
+
 # Git Status
 
 <p align="center">
@@ -31,12 +32,6 @@
 </p>
 
 # My Score
-
-<p >
-  <a href="https://github.com/versatility519?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&ryo-ma&theme=matrix"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
-  </a>
-</p>
 
 <p align="center">
     <img
