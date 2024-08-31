@@ -1,24 +1,24 @@
 - 👋 Hi, I’m @versatility519
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h2>👨 About me:</h2>
+ 
+# 👨 About me
 <ul align="left">
+  <li>⏳ 5+ years of development experience</li>
   <li>🕸 Senior Fullstack Developer</li>
   <li>💰 Junior Blockchain Developer</li>
-  <li>⏳ 5+ years of development experience</li>
 </ul>
 
 
-<h2>💻 Languages and Tools:</h2>
+# 💻 Languages and Tools
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="300" />
-<div align="left">
 
-  
+<div align="left">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
+  <img src="./metrics.plugin.calendar.full.svg">  
+</div><hr />
+<div align="right">
   <a href="https://graphql.com"><img alt="GraphQL" src="./assets/file_type_graphql_icon_130564.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://RestApi.com"><img alt="RestApi" src="./assets/rest-api-blue-logo-22099.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="./assets/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
   <a href="https://eslint.com"><img alt="Eslint" src="./assets/ESLint.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/Node.js.svg" alt="nodejs" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://sass.com"><img alt="sass" src="./assets/sass.png" width="50" height="50" /></a>&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python_18894.png" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python_18894.png" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://rust.com"><img alt="Rust" src="./assets/Rust.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://jest.com"><img alt="jest" src="./assets/Jest.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
@@ -68,21 +68,6 @@
   <a href="https://php.com"><img alt="PHP" src="./assets/php_plain_logo_icon_146397.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;  
 </div>
-<hr />
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
-  <img src="./metrics.plugin.calendar.full.svg">  
-</div>
-# My Score
-
-<p >
-  <a href="https://github.com/versatility519?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&ryo-ma&theme=matrix"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
-  </a>
-</p>
- 
 # Git Status
 
 <p align="center">
@@ -95,15 +80,20 @@
   </a>
 </p>
 
-
+# My Score
+<p >
+  <a href="https://github.com/versatility519?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/api?username=versatility519&ryo-ma&theme=matrix"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
+  </a>
+</p>
 
 <p align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="55%" alt="activity graph">
+      width="60%" alt="activity graph">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      width="35%" alt="activity graph">
+      width="40%" alt="activity graph">
 </p>
 
 <!---
