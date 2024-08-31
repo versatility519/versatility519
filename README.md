@@ -3,12 +3,7 @@
 # 👨 About me
 
 <div align="center">
-<p >
-  <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      width="40%" alt="activity graph">
- </p>
- 
+
 <p align="">
   <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
 </p>
@@ -36,6 +31,9 @@
    <a href="https://github.com/versatility519?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
   </a>
+   <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      width="40%" alt="activity graph">
 </p>
 
 <!---
