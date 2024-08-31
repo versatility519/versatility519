@@ -11,13 +11,15 @@
 
 # 💻 Languages and Tools
 
-<div align="left">
+>
+<div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/versatility519/versatility519/output/github-contribution-grid-snake.svg">
+  <img src="./metrics.plugin.calendar.full.svg">
+
   
-  <img src="./metrics.plugin.calendar.full.svg">  
-</div> 
-<img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
+</div>
 
 # Git Status
 
