@@ -16,13 +16,6 @@
   <img src="https://raw.githubusercontent.com/versatility519/output/github-contribution-grid-snake.svg">
   <img src="./metrics.plugin.calendar.full.svg">  
 </div> 
-<div>
-  <a href="https://github.com/versatility519?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
-  </a>
-</div>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="300" />
 
 # Git Status
 
@@ -31,18 +24,21 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=versatility519&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&count_private=false"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
   </a>
   
- 
+   <a href="https://github.com/versatility519?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
+  </a>
 </p>
 
 # My Score
- 
+
+ <p>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="60%" alt="activity graph">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
       width="40%" alt="activity graph">
- 
+ </p>
 
 <!---
 versatility519/versatility519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
