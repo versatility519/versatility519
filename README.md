@@ -2,7 +2,7 @@
 
  <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I am!+👋;Versatility Developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm!+👋+Versatility+Developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -41,14 +41,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
       width="40%" alt="activity graph">
 </p>
-
-
-## StarDev Ranking
-
-<a href="https://stardev.io/developers/versatility519">
-<img alt="Check out versatility519's profile on stardev.io" src="https://stardev.io/developers/versatility519/badge/languages/locality.svg" />
-</a>
-
 
 <!---
 versatility519/versatility519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
