@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @versatility519
 
- <h1 align="center">
+ <h1 align="center" width="100" >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm!+👋+Versatility+Developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!...;I+am+Fullstack+Developer;Nice+to+meet+you!...&center=true&size=30">
   </a>
 </h1>
 
