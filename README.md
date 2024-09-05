@@ -2,7 +2,7 @@
 
  <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I am!+👋;Versatility Developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -45,7 +45,9 @@
 
 ## StarDev Ranking
 
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/versatility519">
+<img alt="Check out versatility519's profile on stardev.io" src="https://stardev.io/developers/versatility519/badge/languages/locality.svg" />
+</a>
 
 
 <!---
