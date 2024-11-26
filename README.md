@@ -10,9 +10,8 @@
 
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
- <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp; Expert Full-Stack (Heavy Front-End) Developer
- 
+<!--  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'> -->
+     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer
 </h2>
 
 <div align="center">
