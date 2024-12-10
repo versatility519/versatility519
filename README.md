@@ -1,4 +1,4 @@
-# ✨[Full Stack Developer](https://t.me/Coding_top)👈click here
+# ✨[Full Stack Developer](https://t.me/coding_top)👈click here
  
  <h1 align="center" width="100" >
   <a href="https://git.io/typing-svg">
