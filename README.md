@@ -1,42 +1,23 @@
-# ✨[Full Stack Developer](https://t.me/coding_top)👈click here
+# <div align="center">👨‍💻🌐 Frontend && Backend | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
  
- <h1 align="center" width="100" >
+ <h1 align="center" width="90" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!...;I+am+Fullstack+Developer;Nice+to+meet+you!...&center=true&size=30">
   </a>
 </h1>
 
-# 👨 About me
-
-<h2 align="center">
- <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
-<!--  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'> -->
-     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer
-</h2>
-
-<div align="center">
-
-<p align="">
-  <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
-</p>
-<p>
-<ul align="left">
-  <li>⏳ 5+ years of development experience</li>
-  <li>🕸 Senior Fullstack Developer</li>
-  <li>💰 Junior Blockchain Developer</li>
-</ul>
-</p>
-</div>
-
-# 🛠 Language and tools
+## 👨 About me  [📞☎️](https://t.me/StackSavvy519)
  
- ###
-
-<h3 align="center">Frontend Development</h4>
-
-###
-
-<div align="center">
+- 👋 Hello, I’m @versatility519 🥷
+- ❤️ I love Coding and Debuging 👨‍💻
+- 📜 I'm currently a Solana, Solidity, Smart Contract developer. 💪
+- 👀 Interested in Web Development and Blockchain. 🤩
+- 🏃‍♂️ Moving to fancinating Blockchain world.🌐
+ 
+## 🛠 Language and tools
+ 
+### Frontend Development
+<div align="">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
@@ -70,13 +51,9 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="jquery logo"  />
 </div>
 
-###
+### Backend Development
 
-<h3 align="center">Backend Development</h4>
-
-###
-
-<div align="center">
+<div align="">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
@@ -92,13 +69,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-###
+### Mobile App development
 
-<h3 align="center">Mobile App development</h4>
-
-###
-
-<div align="center">
+<div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -114,13 +87,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
-###
+### Other
 
-<h3 align="center">Other</h4>
-
-###
-
-<div align="center">
+<div align="">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -141,26 +110,29 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt=" logo"  />
 </div>
-  
 
-# Git Status
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+## 📊 GitHub Activities:
+<p align="center" width='100%'>
+  <a href="https://github.com/versatility519?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=versatility519&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" height="250px" alt="@versatility519's github-readme-stats"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" width='48%' height="250px" />
+</p>
+<!-- activity graph heroku-app start -->
+<p align="center" width='100%'>
+    <a href="https://wakatime.com/@versatility519">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=versatility519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<div align='center' width='100%'>
+  <a href="https://github.com/versatility519?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=versatility519&theme=onestar&no-frame=true&column=8&row=1"  height="250px" alt="@versatility519's trophy stats"/>
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/versatility519?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=versatility519&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&count_private=false"  width="48%" alt="@versatility519's github-readme-stats-one-bice"/>
-  </a>
-  
-   <a href="https://github.com/versatility519?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=versatility519&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@versatility519's github-readme-streak-stats"/>
-  </a>
-   <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=versatility519&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      width="40%" alt="activity graph">
-</p>
+## 💻 Tech Stack: 
+![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Cosmos SDK](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anchor](https://img.shields.io/badge/anchor-%23F24E1E.svg?style=for-the-badge&logo=anchor&logoColor=white)  ![Foundry](https://img.shields.io/badge/foundry-%23F24E1E.svg?style=for-the-badge&logo=foundry&logoColor=white) 
+
 
 <!---
 versatility519/versatility519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
