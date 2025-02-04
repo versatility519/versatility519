@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻🌐Fullstack | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
+# <div align="center">👨‍💻🌐Frontend && Backend | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
  
  <h1 align="center" width="90" >
   <a href="https://git.io/typing-svg">
