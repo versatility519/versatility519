@@ -1,8 +1,8 @@
 # <div align="center">👨‍💻🌐Frontend && Backend | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
  
- <h1 align="center" width="90" >
+ <h1 align="center" width="150" >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!;I+am+Fullstack+Developer;I+am+also+Blockchain+Engineer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!;I+am+Fullstack+Developer;I+am+Blockchain+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
